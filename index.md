@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Dylan's Movies
 
-You can use the [editor on GitHub](https://github.com/dylans-movies/dylans-movies.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We offer a wide range of free movies, avaliable through Google Drive.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a team of people working on keeping the calalogue up to date and working.
 
-### Markdown
+### Top Movies
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
